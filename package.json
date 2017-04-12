@@ -1,0 +1,11 @@
+{
+  "name": "transmission-fetch",
+  "version": "1.0.0",
+  "description": "A transmission api written with fetch",
+  "main": "lib/transmission",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Dobroveanu",
+  "license": "ISC"
+}
