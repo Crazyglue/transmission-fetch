@@ -1,6 +1,6 @@
 {
   "name": "transmission-fetch",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A transmission api written with fetch",
   "main": "lib/transmission",
   "scripts": {
